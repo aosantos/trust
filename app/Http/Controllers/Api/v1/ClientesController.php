@@ -3,10 +3,8 @@
 namespace App\Http\Controllers\Api\v1;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\StoreUpdateClientesRequest;
 use App\Models\Clientes;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Validator;
 
 
 class ClientesController extends Controller

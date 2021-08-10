@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Api\v1;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\StoreUpdateClientesRequest;
 use App\Models\PedidosCompras;
 use Illuminate\Http\Request;
 
